@@ -8,6 +8,9 @@ public class CallingAMethodOverview {
     }
 
     public void myMethod(){
+
+
         System.out.println("Output From myMethod !");
+        System.out.println("Output From myMethod 2222 !");
     }
 }
